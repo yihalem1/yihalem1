@@ -151,14 +151,6 @@ A visibility-aware optimization framework that restricts Gaussian splatting supe
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yihalem1&show_icons=true&theme=default&hide_border=true&title_color=1A3C6D&icon_color=2E5CB8&text_color=333333" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yihalem1&layout=compact&theme=default&hide_border=true&title_color=1A3C6D&text_color=333333" alt="Top Languages"/>
-</p>
 
 ---
 
