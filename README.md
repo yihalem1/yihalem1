@@ -33,7 +33,7 @@
 
 I'm a Master's researcher at the **Vision &amp; Learning Lab, UNIST**, advised by [Prof. Seungryul Baek](https://sites.google.com/site/bsrvision00) and [Prof. Binod Bhattarai](https://sites.google.com/view/bbinod/home). My research focuses on **3D human avatar reconstruction**, **3D Gaussian Splatting**, and **vision–language reasoning for hand understanding**.
 
-My most recent first-author work — **FlexiAvatar** (ECCV 2026, under review) — proposes a *visibility-aware* 3D Gaussian avatar framework that reconstructs animatable avatars from monocular video across **full-body, upper-body, and head-only** settings within a single unified pipeline. Other contributions span hand-pose benchmarking (CVPR 2026), hand–object mesh generation (CVPR Findings 2026), real-time two-hand manipulation (AAAI 2025), and generative replay for continual detection (CVPR 2024 Highlight).
+My most recent first-author work — **FlexiAvatar** (ECCV 2026) — proposes a *visibility-aware* 3D Gaussian avatar framework that reconstructs animatable avatars from monocular video across **full-body, upper-body, and head-only** settings within a single unified pipeline. Other contributions span hand-pose benchmarking (CVPR 2026), hand–object mesh generation (CVPR Findings 2026), real-time two-hand manipulation (AAAI 2025), and generative replay for continual detection (CVPR 2024 Highlight).
 
 📍 Based in Ulsan, South Korea &nbsp;·&nbsp; ✉️ Open to collaborations and PhD discussions.
 
@@ -73,7 +73,7 @@ My most recent first-author work — **FlexiAvatar** (ECCV 2026, under review) �
 ## ⭐ Featured Research
 
 ### 🌟 FlexiAvatar — Unified 3D Gaussian Human Avatars Under Arbitrary Body Visibility
-> **First Author** · *ECCV 2026 (Under Review)*
+> **First Author** · *ECCV 2026*
 
 A visibility-aware optimization framework that restricts Gaussian splatting supervision to observed body regions, eliminating hallucinated geometry and texture drift under partial-view inputs. Achieves **state-of-the-art** results on NeuMan, ZJU-MoCap, TalkShow, and INSTA — with **~3% PSNR gain**, **~50% memory reduction**, and **~34% faster rendering** for head-only avatars.
 
@@ -87,7 +87,7 @@ A visibility-aware optimization framework that restricts Gaussian splatting supe
 
 | Year | Venue | Title | Role |
 |------|-------|-------|------|
-| 2026 | **ECCV** *(under review)* | **Unified 3D Gaussian Human Avatars Under Arbitrary Body Visibility** | **First Author** |
+| 2026 | **ECCV** | **Unified 3D Gaussian Human Avatars Under Arbitrary Body Visibility** | **First Author** |
 | 2026 | **CVPR** | [HandVQA: Diagnosing Fine-Grained Spatial Reasoning Failures in VLMs via Hand Pose QA](https://kcsayem.github.io/handvqa/) | Co-author |
 | 2026 | **CVPR Findings** | [THOM: Generating Physically Plausible Hand-Object Meshes From Text](https://uyoung-jeong.github.io/THOM_Project/) | Co-author |
 | 2025 | **AAAI** | [QORT-Former: Query-Optimized Real-time Transformer for Two-Hand Manipulation](https://kcsayem.github.io/QORT-Former/) | Co-author |
