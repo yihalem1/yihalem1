@@ -9,9 +9,9 @@
   <a href="mailto:yihalemyimolal@unist.ac.kr">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://yihalem1.github.io/">
+  <!-- <a href="https://yihalem1.github.io/">
     <img src="https://img.shields.io/badge/Homepage-1A3C6D?style=for-the-badge&logo=githubpages&logoColor=white" alt="Homepage"/>
-  </a>
+  </a> -->
   <a href="https://scholar.google.com/citations?user=N91t2OQAAAAJ&hl=en">
     <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/>
   </a>
