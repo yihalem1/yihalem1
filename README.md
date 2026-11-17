@@ -1,5 +1,3 @@
-<img align="right" width="170" src="profile.png" alt="Yihalem Yimolal Tiruneh">
-
 ## Yihalem Yimolal Tiruneh
 
 I am an AI Research Scientist at [ROBROS](https://www.robros.co.kr/), a humanoid robotics company in Seoul, where I work on world action models for robot manipulation.
